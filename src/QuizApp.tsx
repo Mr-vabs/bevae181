@@ -51,7 +51,7 @@ export default function QuizApp() {
   const handleStart = () => {
     if (!name.trim()) {
       alert(
-        "Oh come on, you don’t have a name? Even mysterious quiz ninjas need one. 😒"
+        "Oh come on, you don’t have a name? \nEven mysterious quiz ninjas need one. 😒"
       );
       return;
     }
@@ -64,7 +64,7 @@ export default function QuizApp() {
     const unanswered = questions.filter(q => !(q.id in answers));
     if (unanswered.length > 0) {
       alert(
-        `Skipping questions, are we? 🙄 You've left ${unanswered.length} out of ${questions.length} unanswered. Try again, champ.`
+        `Skipping questions, are we? \n🙄 You've left ${unanswered.length} out of ${questions.length} unanswered. Try again, champ.`
       );
       return;
     }
