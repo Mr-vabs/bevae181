@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1,
+    "question": "Which one of the following is a human modified environment?",
+    "options": ["Cities", "Industries", "Plantations", "Crop fields"],
+    "correct": "Cities"
+  },
+  {
+    "id": 2,
+    "question": "Which one of the following is not one of the seventeen Sustainable Development Goals (SDGs)?",
+    "options": [
+      "Good health",
+      "Zero hunger",
+      "No poverty",
+      "Social equity and equality"
+    ],
+    "correct": "Social equity and equality"
+  },
+  {
+    "id": 3,
+    "question": "Which one of the following is not a decomposer?",
+    "options": ["Earthworm", "Fungi", "Vulture", "Hawk"],
+    "correct": "Hawk"
+  },
+  {
+    "id": 4,
+    "question": "The extent of the biosphere is about:",
+    "options": [
+      "11,000 m below the surface of the earth to 9,000 m above the mean sea level",
+      "9,000 m below the surface of the earth to 9,000 m above the mean sea level",
+      "10,000 m below the surface of the earth to 10,000 m above the mean sea level",
+      "6,000 m below the surface of the earth to 8,000 m above the mean sea level"
+    ],
+    "correct": "11,000 m below the surface of the earth to 9,000 m above the mean sea level"
+  },
+  {
+    "id": 5,
+    "question": "Primary consumers are found at:",
+    "options": [
+      "Trophic level I",
+      "Trophic level II",
+      "Trophic level III",
+      "Trophic level V"
+    ],
+    "correct": "Trophic level II"
+  },
+  {
+    "id": 6,
+    "question": "How much percent of water is present on the earth surface in the form of fresh water?",
+    "options": ["About 4%", "About 3%", "About 2%", "About 1%"],
+    "correct": "About 3%"
+  },
+  {
+    "id": 7,
+    "question": "Detritus food chain begins:",
+    "options": [
+      "Always in the ocean",
+      "With a producer",
+      "With decaying organic matter",
+      "With air pollution"
+    ],
+    "correct": "With decaying organic matter"
+  },
+  {
+    "id": 8,
+    "question": "Maple, beech and oak are found in:",
+    "options": [
+      "Temperate deciduous forest",
+      "Temperate evergreen forest",
+      "Temperate rain forest",
+      "Coniferous forest"
+    ],
+    "correct": "Temperate deciduous forest"
+  },
+  {
+    "id": 9,
+    "question": "Unattached organisms which live at the air-water interface are known as:",
+    "options": ["Plankton", "Neuston", "Nekton", "Periphyton"],
+    "correct": "Neuston"
+  },
+  {
+    "id": 10,
+    "question": "Which one of the following is not a part of lentic ecosystems?",
+    "options": ["Lakes", "Impoundments", "Wetlands", "River"],
+    "correct": "River"
+  },
+  {
+    "id": 11,
+    "question": "In which of the following process, solid water directly changes into water vapour?",
+    "options": ["Evaporation", "Transpiration", "Sublimation", "Condensation"],
+    "correct": "Sublimation"
+  },
+  {
+    "id": 12,
+    "question": "Kul is a traditional irrigation practice in the state of:",
+    "options": ["Himachal Pradesh", "Rajasthan", "Uttarakhand", "Punjab"],
+    "correct": "Himachal Pradesh"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following soil supports cultivation of Rubber?",
+    "options": ["Black soil", "Red soil", "Laterite soil", "Alluvial soil"],
+    "correct": "Laterite soil"
+  },
+  {
+    "id": 14,
+    "question": "Which one of the following is not one of the consequences of excessive irrigation?",
+    "options": [
+      "Waterlogging in the soil",
+      "Loss of productivity partially or completely",
+      "Increase in salinity or alkalinity",
+      "Increase in productivity substantially"
+    ],
+    "correct": "Increase in productivity substantially"
+  },
+  {
+    "id": 15,
+    "question": "Which one of the following is an economic significance of forest?",
+    "options": [
+      "Protection of biodiversity",
+      "Forest products used for pharmaceuticals",
+      "Aesthetic and Spiritual purpose",
+      "Recreational purposes"
+    ],
+    "correct": "Forest products used for pharmaceuticals"
+  },
+  {
+    "id": 16,
+    "question": "Which one of the following is not a cause of deforestation?",
+    "options": [
+      "Forest fires",
+      "Grazing of animals",
+      "Selective cutting of the trees",
+      "Pest attack"
+    ],
+    "correct": "Selective cutting of the trees"
+  },
+  {
+    "id": 17,
+    "question": "In which of the following states was successfully implemented Joint Forest Management?",
+    "options": ["West Bengal", "Uttarakhand", "Odisha", "Himachal Pradesh"],
+    "correct": "West Bengal"
+  },
+  {
+    "id": 18,
+    "question": "Which one of the following are the most abundant life forms on the earth in terms of number?",
+    "options": [
+      "Plants",
+      "Birds",
+      "Amphibians and Reptiles",
+      "Insects and Microorganisms"
+    ],
+    "correct": "Insects and Microorganisms"
+  },
+  {
+    "id": 19,
+    "question": "The Trans-Himalayas biogeographic region is found in:",
+    "options": ["Sikkim", "Uttarakhand", "Ladakh", "Arunachal Pradesh"],
+    "correct": "Ladakh"
+  },
+  {
+    "id": 20,
+    "question": "Which one of the following biogeographic region covers the largest in India?",
+    "options": [
+      "The Western Ghats",
+      "The Deccan Peninsula",
+      "The Indian Desert",
+      "The Gangetic Plain"
+    ],
+    "correct": "The Deccan Peninsula"
+  },
+  {
+    "id": 21,
+    "question": "Which one of the following is an indirect use value of biodiversity?",
+    "options": [
+      "Aesthetic value",
+      "Existence value",
+      "Bequest value",
+      "Optional value"
+    ],
+    "correct": "Optional value"
+  },
+  {
+    "id": 22,
+    "question": "Which one of the following is a conventional source of energy?",
+    "options": [
+      "Solar energy",
+      "Atomic energy",
+      "Wind energy",
+      "Biomass energy"
+    ],
+    "correct": "Biomass energy"
+  },
+  {
+    "id": 23,
+    "question": "The first wave energy project in India was set up at:",
+    "options": ["Gulf of Mannar", "Gulf of Khambat", "Vizhinjam", "Hanthal"],
+    "correct": "Vizhinjam"
+  },
+  {
+    "id": 24,
+    "question": "India’s maximum commercial energy comes from:",
+    "options": ["Fossil fuel", "Hydropower", "Atomic energy", "Coal"],
+    "correct": "Coal"
+  },
+  {
+    "id": 25,
+    "question": "Which one of the following is not a factor for the sustainable carrying capacity for the human species?",
+    "options": [
+      "Knowledge system",
+      "Resource availability",
+      "Level of economic development",
+      "Standards of living"
+    ],
+    "correct": "Knowledge system"
+  },
+  {
+    "id": 26,
+    "question": "Insecticides, particularly chlorinated hydrocarbons reduced the population level of:",
+    "options": ["Passenger pigeon", "Bald Eagle", "Corn", "Indian Rhino"],
+    "correct": "Bald Eagle"
+  },
+  {
+    "id": 27,
+    "question": "Invasive species which causes skin allergies is:",
+    "options": ["Water hyacinth", "Mesquite", "Congress weed", "Sweet pea"],
+    "correct": "Congress weed"
+  },
+  {
+    "id": 28,
+    "question": "Which one of the following is an in-situ conservation programme?",
+    "options": [
+      "Zoological parks",
+      "Artificial insemination",
+      "Fostering",
+      "National parks"
+    ],
+    "correct": "National parks"
+  },
+  {
+    "id": 29,
+    "question": "Which one of the following wetland is located in Odisha?",
+    "options": ["Sukhna", "Renuka", "Chilika", "Loktak"],
+    "correct": "Chilika"
+  },
+  {
+    "id": 30,
+    "question": "Which one of the following is a non-point source pollution?",
+    "options": [
+      "Discharge of pollution through chimneys",
+      "Run-offs from agricultural fields",
+      "Discharge channels in municipal areas",
+      "Discharge through pipes in industries"
+    ],
+    "correct": "Run-offs from agricultural fields"
+  },
+  {
+    "id": 31,
+    "question": "Which one of the following is a major source of ozone as a pollutant?",
+    "options": [
+      "Photochemical reaction",
+      "Coal and oil combustion",
+      "Automobiles",
+      "Petrochemical solvents"
+    ],
+    "correct": "Photochemical reaction"
+  },
+  {
+    "id": 32,
+    "question": "Which one of the following is a secondary air pollutant?",
+    "options": [
+      "Sulphur trioxide",
+      "Sulphur dioxide",
+      "Carbon monoxide",
+      "Carbon dioxide"
+    ],
+    "correct": "Sulphur trioxide"
+  },
+  {
+    "id": 33,
+    "question": "Which one of the following is a physical agent of water pollution?",
+    "options": [
+      "Radioactive substances",
+      "Bacteria",
+      "Particulates",
+      "Pesticides"
+    ],
+    "correct": "Particulates"
+  },
+  {
+    "id": 34,
+    "question": "Which one of the following is not a symptom of toxicity?",
+    "options": [
+      "Poisoning",
+      "Metabolic disorder",
+      "Malformations",
+      "Releases ionising radiations"
+    ],
+    "correct": "Releases ionising radiations"
+  },
+  {
+    "id": 35,
+    "question": "Which one of the following is not a biological treatment of waste?",
+    "options": ["Conditioning", "Lagooning", "Digestion", "Composting"],
+    "correct": "Conditioning"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is not a part of organic waste?",
+    "options": ["Kitchen waste", "Waste vegetables", "Plastics", "Fruit waste"],
+    "correct": "Plastics"
+  },
+  {
+    "id": 37,
+    "question": "Which one of the following is not a benefit of recycling of waste?",
+    "options": [
+      "It conserves resources",
+      "It prevents emission of green house gases",
+      "It supplies valuable raw materials to industry",
+      "It does not pollute the environment"
+    ],
+    "correct": "It does not pollute the environment"
+  },
+  {
+    "id": 38,
+    "question": "Inter‑governmental Panel on Climate Change (IPCC) was established in the year:",
+    "options": ["1985", "1986", "1987", "1988"],
+    "correct": "1988"
+  },
+  {
+    "id": 39,
+    "question": "Ozone is found in:",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Ionosphere"],
+    "correct": "Stratosphere"
+  },
+  {
+    "id": 40,
+    "question": "pH of unpolluted rain water is:",
+    "options": ["5.7", "6.7", "7.0", "7.7"],
+    "correct": "5.7"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following amendments made the protection and improvement of natural environment as Fundamental Duty?",
+    "options": [
+      "Forty‑first Amendment Act",
+      "Forty‑second Amendment Act",
+      "Forty‑third Amendment Act",
+      "Forty‑fourth Amendment Act"
+    ],
+    "correct": "Forty‑second Amendment Act"
+  },
+  {
+    "id": 42,
+    "question": "Convention on the Control of Transboundary Movement of Hazardous Wastes and Their Disposal is known as:",
+    "options": [
+      "The Stockholm Convention",
+      "The Rotterdam Convention",
+      "The Basel Convention",
+      "The Vienna Convention"
+    ],
+    "correct": "The Basel Convention"
+  },
+  {
+    "id": 43,
+    "question": "In Delhi, new vehicles should have pollution prevention mechanism comparable to:",
+    "options": ["BS III", "BS IV", "BS V", "BS VI"],
+    "correct": "BS VI"
+  },
+  {
+    "id": 44,
+    "question": "At the dawn of agriculture (about 8000 B.C.) the world population was somewhere around:",
+    "options": ["1 million", "2 million", "5 million", "10 million"],
+    "correct": "5 million"
+  },
+  {
+    "id": 45,
+    "question": "Which one of the following terms is not a part of WHO definition on health?",
+    "options": ["Physical", "Mental", "Social", "Psychological"],
+    "correct": "Psychological"
+  },
+  {
+    "id": 46,
+    "question": "Which one of the following is not a geological hazard?",
+    "options": ["Glacier advances", "Avalanches", "Landslides", "Earthquakes"],
+    "correct": "Glacier advances"
+  },
+  {
+    "id": 47,
+    "question": "In which year Indian coastline experienced the most devastating Tsunami in the recorded history?",
+    "options": ["1999", "2000", "2004", "2005"],
+    "correct": "2004"
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following is not one of the three major views on nature?",
+    "options": ["The Western", "The Eastern", "The Sineatic", "The Indian"],
+    "correct": "The Sineatic"
+  },
+  {
+    "id": 49,
+    "question": "Which one of the following is not a category of environmental equity?",
+    "options": ["Procedural", "Geographical", "Social", "Psychological"],
+    "correct": "Psychological"
+  },
+  {
+    "id": 50,
+    "question": "ENVIS centre at TERI works in the area of:",
+    "options": [
+      "Renewable energy and environment",
+      "Toxic chemicals",
+      "Pollution control",
+      "Occupational health"
+    ],
+    "correct": "Renewable energy and environment"
+  }
+]
